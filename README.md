@@ -26,6 +26,8 @@ From the Releases section or by [clicking here](https://github.com/sarimabbas/wi
 1. Select any image with "wallpaper" in its filename to choose it as the wallpaper. 
 2. If no such image is supplied, the app defaults to its own wallpaper.
 
+If you don't want to supply a wallpaper file every time, you can replace the default inside `WindowPaper.app/Contents/Resources/wallpaper.png`.
+
 ## Contributing
 
 The `src/main.py` contains the Python script and virtual environment that powers the app. There is only one dependency (Pillow).
