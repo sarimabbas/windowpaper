@@ -10,6 +10,10 @@ Make product screenshots easy. WindowPaper is a little app that takes a window s
 
 Why is WindowPaper needed? The macOS screenshot tool lets you take windowed screenshots with nice shadows, however there is no way, at present, to show these window screenshots on a desktop wallpaper.
 
+## Download
+
+From the Releases section or by [clicking here](https://github.com/sarimabbas/windowpaper/releases/latest/download/WindowPaper.app.zip). 
+
 ## Usage
 
 ### Basic
